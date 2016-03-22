@@ -1,0 +1,11 @@
+Measure-Everything-Adapter-InfluxDB-UDP-*
+.build
+tmp
+*.patch
+*~
+*#
+*.bak
+*.old
+*.rej
+*.swp
+*.tmp
